@@ -41,9 +41,6 @@ export default function Home() {
           approach is collaborative, grounded, and curious. There’s no one-size-fits-all here — only what
           works for you.
         </p>
-        <p>
-          <a href="/book">Ready to start your journey? Book a free chat.</a>
-        </p>
       </main>
     </>
   );
